@@ -1,0 +1,10 @@
+# Heart Disease Prediction System — Git Ignore
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.pkl
+heart.csv
+.DS_Store

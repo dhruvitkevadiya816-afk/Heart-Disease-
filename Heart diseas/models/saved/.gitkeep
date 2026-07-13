@@ -1,0 +1,3 @@
+# Saved models directory
+# Populated automatically after training via the Model Training page.
+# Do not commit .pkl files to version control (large binary files).

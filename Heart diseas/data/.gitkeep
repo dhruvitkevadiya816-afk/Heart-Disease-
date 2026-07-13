@@ -1,0 +1,3 @@
+# Dataset directory
+# heart.csv is downloaded automatically on first run from the UCI ML Repository.
+# Do not commit heart.csv to version control.
